@@ -4,4 +4,3 @@
 
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/c85TKN2Gu5JT/sfddgdgdh.git)
 
-### heroku上部署v2ray
